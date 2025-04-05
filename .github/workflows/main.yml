@@ -22,7 +22,7 @@ jobs:
         with:
           node-version: '20' # or any specific version you need
       - name: Cache node_modules # 缓存 node_modules，提高编译速度，毕竟每月只有 2000 分钟。
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         env:
           cache-name: cache-node-modules
         with:
