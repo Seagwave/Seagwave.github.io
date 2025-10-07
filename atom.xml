@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Seagave</title>
+  
+  <subtitle>Seagave Blog</subtitle>
+  <link href="https://lhaibo.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://lhaibo.github.io/"/>
+  <updated>2025-10-07T12:47:28.550Z</updated>
+  <id>https://lhaibo.github.io/</id>
+  
+  <author>
+    <name>Seagave</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【Game】国庆鬼谷八荒修仙记</title>
+    <link href="https://lhaibo.github.io/blog/2025/10/%E9%AC%BC%E8%B0%B7%E5%85%AB%E8%8D%92%E4%BD%93%E9%AA%8C%E6%80%BB%E7%BB%93/"/>
+    <id>https://lhaibo.github.io/blog/2025/10/%E9%AC%BC%E8%B0%B7%E5%85%AB%E8%8D%92%E4%BD%93%E9%AA%8C%E6%80%BB%E7%BB%93/</id>
+    <published>2025-10-06T16:00:00.000Z</published>
+    <updated>2025-10-07T12:47:28.550Z</updated>
+    
+    <content type="html"><![CDATA[<hr><h2 id="总结"><a class="markdownIt-Anchor" href="#总结"></a> 总结</h2><p>国庆前两天先把之前没打完的丝之歌收了下尾，打了一下100%收集和三结局，打完之后和朋友聊天说修仙游戏有什么推荐的，他刚好在玩鬼谷八荒，于是推荐给了我，刚好秋促打折，就入库了一手，然后一肝就是五六天，游戏时长硬生生肝到了50个小时，基本上就是每天睡醒之后不是吃饭就是在肝，虽然最后打衡天还是翻车了，但是最后翻车竟然也是一个结局，也算是在国庆期间体验了整个流程，好玩还是挺好玩的，就是太肝了，设计的太肝了，最后的时候都不感觉自己是在修仙了，就是在一直换地图，换功法。</p><p>回忆下来，鬼谷的功法更像是装备，不同品质的装备，不同等级的装备，不同词条的装备，完全没有体验到看修仙小说时候对功法的想象，不过也可以理解。然后跑图也麻烦至极，即使是登仙了，也还是一格一格走，时间流逝也是按月推进，这对于修仙根本就没有带入感了，就是一个等级升级的换皮，越是玩到后面体验越是差，前面还带有一些新鲜感，玩到后面只想赶紧过完主线剧情，看完主线故事，看攻略搞了火剑流派，伤害倒是基本不成问题。</p><p>因为最后只想赶紧通关，带着这个情绪，最后感觉剧情也就那样，还不如一些小说好看，不过这次体验倒是不错，还是有些收获的，比如总体框架还可以，如果通过mod把肝的部分降降肝度，看故事和创造自己的故事也还是有重玩的可玩性的。</p><p>如果你准备玩，我建议是打几个护肝mod。</p><h2 id="系统整理"><a class="markdownIt-Anchor" href="#系统整理"></a> 系统整理</h2><table><thead><tr><th style="text-align:left">系统模块</th><th style="text-align:left">核心子系统</th><th style="text-align:left">设计要点与玩家体验</th></tr></thead><tbody><tr><td style="text-align:left"><strong>角色养成</strong></td><td style="text-align:left">境界突破</td><td style="text-align:left">提供<strong>差异化成长路径</strong>（如人道、地道、天道筑基），是<strong>能力飞跃和玩法改变</strong>的关键节点。</td></tr><tr><td style="text-align:left"></td><td style="text-align:left">功法技能</td><td style="text-align:left"><strong>武技、绝招、身法、心法、神通</strong>组合构建<strong>深度BD</strong>（Build）；心法词条<strong>随机生成</strong>，追求极品。</td></tr><tr><td style="text-align:left"></td><td style="text-align:left">逆天改命</td><td style="text-align:left">突破时获得的<strong>永久被动</strong>，可能<strong>完全改变后续玩法</strong>，提供<strong>核心爽点</strong>和<strong>流派多样性</strong>。</td></tr><tr><td style="text-align:left"><strong>战斗与操作</strong></td><td style="text-align:left">即时弹幕战斗</td><td style="text-align:left"><strong>低门槛</strong>的ARPG式操作，结合<strong>弹幕躲避</strong>，提供即时反馈和操作空间。</td></tr><tr><td style="text-align:left"></td><td style="text-align:left">属性与灵根</td><td style="text-align:left"><strong>体力、灵力、念力</strong>三大基础属性；<strong>雷、土、风、木、火、水</strong>六大灵根属性，影响技能方向。</td></tr><tr><td style="text-align:left"><strong>世界观与内容</strong></td><td style="text-align:left">山海经叙事</td><td style="text-align:left">主线（愚公移山、后羿射日等）和怪物（武罗等）取材自《山海经》，提供<strong>文化亲近感和新颖题材</strong>。</td></tr><tr><td style="text-align:left"></td><td style="text-align:left">动态事件与奇遇</td><td style="text-align:left">大地图<strong>随机事件</strong>与<strong>留白设计</strong>，平衡探索密度与节奏；奇遇提供<strong>叙事碎片和资源获取</strong>途径。</td></tr><tr><td style="text-align:left"><strong>社交与交互</strong></td><td style="text-align:left">NPC人际关系</td><td style="text-align:left">基于<strong>双向好感度</strong>[-300,300]，结合<strong>性格驱动</strong>的NPC AI行为，形成<strong>拟真社交网络</strong>和<strong>故事生成器</strong>。</td></tr><tr><td style="text-align:left"></td><td style="text-align:left">宗门系统</td><td style="text-align:left">玩家可加入或创建宗门，参与宗门战争与建设，提供<strong>社会结构层面的归属感与长期目标</strong>。</td></tr></tbody></table><hr><h3 id="角色塑造与剧情演绎"><a class="markdownIt-Anchor" href="#角色塑造与剧情演绎"></a> 🎭 角色塑造与剧情演绎</h3><ol><li><p><strong>角色创建与魅力系统</strong></p><ul><li>玩家可以自定义角色的五官、发型、服饰等，系统会根据这些选择给出从“憎呕”到“仙资”的<strong>魅力评价</strong>。</li><li>这个评价会显著影响NPC对玩家的态度：高魅力角色更容易获得帮助和礼物，但也可能更频繁地被骚扰；低魅力角色则可能处处碰壁，甚至被人人喊打，形成了<strong>一套基于传统审美的社会规则</strong>。</li></ul></li><li><p><strong>剧情设计与文化内核</strong></p><ul><li>游戏主线剧情化用《山海经》等中国神话典故，如“愚公移山”、“精卫填海”等。</li><li>制作组在角色立绘与服饰设计上，<strong>考据并还原了唐代以前（尤其是汉初）的服饰风格</strong>，力求呈现更纯正的“仙风道骨”，而非被西方元素影响的“古风”。</li></ul></li></ol><h3 id="经济运行与资源循环"><a class="markdownIt-Anchor" href="#经济运行与资源循环"></a> 🔄 经济运行与资源循环</h3><ol><li><p><strong>核心资源与产出</strong></p><ul><li><strong>灵石</strong>：通用货币，用于交易、学习技能等。</li><li><strong>丹药材料</strong>：用于炼制提升修为、突破境界、恢复状态的丹药。</li><li><strong>功法秘籍</strong>：通过击败敌人、探索秘境、拍卖行或宗门兑换获得，是提升能力的核心。</li></ul></li><li><p><strong>消耗与流通</strong></p><ul><li><strong>修为消耗</strong>：是推动玩家主动参与玩法（打怪、做任务）以获取修为资源的核心驱动力。</li><li><strong>丹药与符篆消耗</strong>：高阶丹药是挑战强力BOSS的必需品，提升了游戏的策略性和准备成本。</li><li><strong>拍卖行与交易</strong>：玩家与NPC之间可以交易资源，形成了动态的经济环境。</li></ul></li></ol><h3 id="系统关联与体验融合"><a class="markdownIt-Anchor" href="#系统关联与体验融合"></a> 💎 系统关联与体验融合</h3><p>这些系统并非孤立存在，而是相互交织，共同构成了完整的游戏体验：</p><ul><li><strong>养成驱动探索与战斗</strong>：为了获得更好的功法和突破材料，玩家需要去探索世界、挑战BOSS，并将收获的素材通过炼丹、炼器系统转化为实际战力。</li><li><strong>社交反哺养成</strong>：良好的NPC关系可以带来稀缺的功法、丹药赠送，而结交道侣、夫妻更能提供强力的双修加成。</li><li><strong>剧情赋予成长意义</strong>：境界的突破和实力的提升，不仅是为了数值成长，也是为了能够参与到“后羿射日”等宏大叙事中，赋予了成长过程更强的代入感和史诗感。</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;hr&gt;
+&lt;h2 id=&quot;总结&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#总结&quot;&gt;&lt;/a&gt; 总结&lt;/h2&gt;
+&lt;p&gt;国庆前两天先把之前没打完的丝之歌收了下尾，打了一下100%收集和三结局，打完之后和朋友聊天说修仙游戏有什么推荐的，他刚好在玩鬼谷八荒，</summary>
+      
+    
+    
+    
+    
+    <category term="blog" scheme="https://lhaibo.github.io/tags/blog/"/>
+    
+    <category term="记录" scheme="https://lhaibo.github.io/tags/%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="体验" scheme="https://lhaibo.github.io/tags/%E4%BD%93%E9%AA%8C/"/>
+    
+    <category term="鬼谷八荒" scheme="https://lhaibo.github.io/tags/%E9%AC%BC%E8%B0%B7%E5%85%AB%E8%8D%92/"/>
+    
+    <category term="系统整理" scheme="https://lhaibo.github.io/tags/%E7%B3%BB%E7%BB%9F%E6%95%B4%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【Unity】如何创建自定义Package</title>
+    <link href="https://lhaibo.github.io/blog/2025/04/%E3%80%90Unity%E3%80%91%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BA%E8%87%AA%E5%AE%9A%E4%B9%89Package/"/>
+    <id>https://lhaibo.github.io/blog/2025/04/%E3%80%90Unity%E3%80%91%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BA%E8%87%AA%E5%AE%9A%E4%B9%89Package/</id>
+    <published>2025-04-04T16:00:00.000Z</published>
+    <updated>2025-10-07T12:47:28.509Z</updated>
+    
+    <content type="html"><![CDATA[<hr><h2 id="step-by-step"><a class="markdownIt-Anchor" href="#step-by-step"></a> Step By Step</h2><ol><li>按照自定义包的文件树建立好文件 <a href="https://docs.unity.cn/cn/2023.2/Manual/CustomPackages.html">创建自定义包 - Unity 手册</a></li><li>配置好对应的package.json后上传至github</li><li>CHANGELOG.md的编写可以参考 <a href="https://keepachangelog.com/zh-CN/1.1.0/">如何维护更新日志</a></li><li>LICENSE.md的选择可以从 <a href="https://spdx.org/licenses/">SPDX License List</a> 中选择适合自己的</li><li>有了这些文件后从unity的Package Manager即可根据git链接安装下载</li></ol><h2 id="reference"><a class="markdownIt-Anchor" href="#reference"></a> Reference</h2><ul><li><a href="https://docs.unity.cn/cn/2023.2/Manual/CustomPackages.html">创建自定义包 - Unity 手册</a></li><li><a href="https://keepachangelog.com/zh-CN/1.1.0/">如何维护更新日志</a></li><li><a href="https://spdx.org/licenses/">SPDX License List</a></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;hr&gt;
+&lt;h2 id=&quot;step-by-step&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#step-by-step&quot;&gt;&lt;/a&gt; Step By Step&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;按照自定义包的文件树建立好文件 &lt;a href=&quot;https:</summary>
+      
+    
+    
+    
+    
+    <category term="blog" scheme="https://lhaibo.github.io/tags/blog/"/>
+    
+    <category term="记录" scheme="https://lhaibo.github.io/tags/%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="unity" scheme="https://lhaibo.github.io/tags/unity/"/>
+    
+    <category term="custom package" scheme="https://lhaibo.github.io/tags/custom-package/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【职业素养】A01-游戏开发绝非游戏</title>
+    <link href="https://lhaibo.github.io/blog/2024/10/%E3%80%90%E8%81%8C%E4%B8%9A%E7%B4%A0%E5%85%BB%E3%80%91A01-%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E7%BB%9D%E9%9D%9E%E6%B8%B8%E6%88%8F/"/>
+    <id>https://lhaibo.github.io/blog/2024/10/%E3%80%90%E8%81%8C%E4%B8%9A%E7%B4%A0%E5%85%BB%E3%80%91A01-%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E7%BB%9D%E9%9D%9E%E6%B8%B8%E6%88%8F/</id>
+    <published>2024-10-27T16:00:00.000Z</published>
+    <updated>2025-10-07T12:47:28.509Z</updated>
+    
+    <content type="html"><![CDATA[<hr><p>该系列搬运自《樱井老师的开发课堂》，根据视频记录的文字稿，供快速查阅，感谢大佬的翻译。</p><iframe width="560" height="315" src="https://www.youtube.com/embed/jlFkxfkICO8?si=dv0ITFPzSS40pRsh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><iframe src="//player.bilibili.com/player.html?isOutside=true&aid=857560252&bvid=BV1qV4y1H7ZU&cid=820256480&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><p>权归属原作者，如有问题，欢迎留言联系删除。</p><hr><p>试着回答：“你为什么要做游戏？”</p><p>我想知道各位开发人员会如何回答这个问题？</p><p>估计大多数人应该会说：“因为我喜欢游戏。”</p><p>这是应该的。</p><p>就我而言，我给出的答案应该是：“因为这是我最擅长之事。”</p><p><img src="/blog/2024/10/%E3%80%90%E8%81%8C%E4%B8%9A%E7%B4%A0%E5%85%BB%E3%80%91A01-%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E7%BB%9D%E9%9D%9E%E6%B8%B8%E6%88%8F/Pasted%20image%2020241028230044.png" alt></p><p>至于喜欢玩游戏，或者是喜欢做游戏，对我来说与之相比均为次要。</p><p>游戏开发者的工作是制作游戏，但是工作本身并不是游戏，如果你把做游戏当做爱好是一回事。</p><p>可是一旦涉及到成本、销量、人力等因素，你就需要将其视为正常工作一样对待。</p><p>在理想状态下，大家可以无拘无束地去制作任何我们想做的游戏 。</p><p>这是小型独立游戏常见的情况，当然值得大家钦佩，但独立游戏开发者一旦开始考虑盈利，他们就变成专职人员了。</p><p>作为吃这碗饭的人，意味着你必须谨慎地随时准备回应需求，很多游戏从业人员最终开发出的是不合自己胃口的游戏。</p><p><img src="/blog/2024/10/%E3%80%90%E8%81%8C%E4%B8%9A%E7%B4%A0%E5%85%BB%E3%80%91A01-%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E7%BB%9D%E9%9D%9E%E6%B8%B8%E6%88%8F/Pasted%20image%2020241028230210.png" alt></p><p><strong>这才是生活现状</strong>。</p><p>我敢肯定，一个喜欢萌系元素的创作者如果日复一日地承担着描绘栩栩如生的僵尸或者蟑螂的工作，这样基本不会让人享受工作其中，但即使它们不合你的喜好，工作仍然是工作，你必须去做，而且还应该最大程度最好。</p><p><img src="/blog/2024/10/%E3%80%90%E8%81%8C%E4%B8%9A%E7%B4%A0%E5%85%BB%E3%80%91A01-%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E7%BB%9D%E9%9D%9E%E6%B8%B8%E6%88%8F/Pasted%20image%2020241028230354.png" alt></p><p>当然啦，和任何工作一样，能在此中得到乐趣自然最好。</p><p><strong>大家也应该尝试从自己的工作中寻得可感受到乐趣与有价值的内容。</strong></p><p>或者这么说，如果大家的目标是成为一个特定职位的开发人员乃至总监，如果能够担当这样一个职位，那么当然，大家自然可得到能够制作自己喜欢做的东西之权利，然而这是一个很大的假设。</p><p>要是大家真的成为一位总监或者是游戏设计师，能从零开始来创造一个游戏，那么当然可以让自己想要实现的创意变成现实，可是，即使做到行业顶级，大家仍然无法保证这样的好事会发生在自己身上。</p><p>就我而言，我开发游戏的时候，是会把个人喜好放一边的。</p><p>我本身就是一名老玩家，可在制作《星之卡比》初代的时候，我依然要考虑如何对新玩家友好，之后还制作了《陨石方块》，我本人并不怎么擅长玩这类砖块消除型益智游戏。</p><p><img src="/blog/2024/10/%E3%80%90%E8%81%8C%E4%B8%9A%E7%B4%A0%E5%85%BB%E3%80%91A01-%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E7%BB%9D%E9%9D%9E%E6%B8%B8%E6%88%8F/Pasted%20image%2020241028230534.png" alt></p><p>换句话说，我并非为自己制作游戏，</p><p>我把手上接的每一个项目都当做一项任务，</p><p>在这项任务重，我需要做出一个符合特定目标或者类型的游戏，但是最重要的依然是，找到其中的乐趣。</p><p><img src="/blog/2024/10/%E3%80%90%E8%81%8C%E4%B8%9A%E7%B4%A0%E5%85%BB%E3%80%91A01-%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E7%BB%9D%E9%9D%9E%E6%B8%B8%E6%88%8F/Pasted%20image%2020241028230727.png" alt></p><p>我会说我非常喜爱自己指导的游戏，同样享受制作游戏的过程。</p><p>在它们发售之后也会经常去玩。</p><p>一旦理解了游戏乐趣之处，</p><p>那不论你的喜好如何，你都会拥有创造出各种不同体验的能力。</p><p>我希望这个频道重发布的视频能为大家提供一些启示，引领各位逐渐走向正确的方向。</p><p>说了这么多，</p><p>无论开发者制作的哪一类游戏，我们都有着一个共同的目标：</p><p><strong>让我们的玩家体验到乐趣</strong></p><p><img src="/blog/2024/10/%E3%80%90%E8%81%8C%E4%B8%9A%E7%B4%A0%E5%85%BB%E3%80%91A01-%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E7%BB%9D%E9%9D%9E%E6%B8%B8%E6%88%8F/Pasted%20image%2020241028230824.png" alt></p><p>无论大家要制作什么作品，永远不要忘记这个目标。</p><p>要是自己陷入了迷茫，只要记住：</p><p><strong>让玩家体验到乐趣</strong></p><p>游戏开发本身可能充满了挑战！</p><p>但这种想让大家体验到乐趣的欲望会帮助各位，为各位提供继续前行的动力。</p><p><img src="/blog/2024/10/%E3%80%90%E8%81%8C%E4%B8%9A%E7%B4%A0%E5%85%BB%E3%80%91A01-%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E7%BB%9D%E9%9D%9E%E6%B8%B8%E6%88%8F/Pasted%20image%2020241028230926.png" alt></p><hr><p>本文根据视频翻译记录，如有问题，欢迎留言联系删除。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;hr&gt;
+&lt;p&gt;该系列搬运自《樱井老师的开发课堂》，根据视频记录的文字稿，供快速查阅，感谢大佬的翻译。&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/jlFkxfkICO8?si=d</summary>
+      
+    
+    
+    
+    
+    <category term="blog" scheme="https://lhaibo.github.io/tags/blog/"/>
+    
+    <category term="搬运" scheme="https://lhaibo.github.io/tags/%E6%90%AC%E8%BF%90/"/>
+    
+    <category term="记录" scheme="https://lhaibo.github.io/tags/%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="樱井老师的开发课堂" scheme="https://lhaibo.github.io/tags/%E6%A8%B1%E4%BA%95%E8%80%81%E5%B8%88%E7%9A%84%E5%BC%80%E5%8F%91%E8%AF%BE%E5%A0%82/"/>
+    
+    <category term="职业素养" scheme="https://lhaibo.github.io/tags/%E8%81%8C%E4%B8%9A%E7%B4%A0%E5%85%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我目前常用的软件与工具</title>
+    <link href="https://lhaibo.github.io/blog/2024/10/%E6%88%91%E7%9B%AE%E5%89%8D%E5%B8%B8%E7%94%A8%E7%9A%84%E8%BD%AF%E4%BB%B6%E4%B8%8E%E5%B7%A5%E5%85%B7/"/>
+    <id>https://lhaibo.github.io/blog/2024/10/%E6%88%91%E7%9B%AE%E5%89%8D%E5%B8%B8%E7%94%A8%E7%9A%84%E8%BD%AF%E4%BB%B6%E4%B8%8E%E5%B7%A5%E5%85%B7/</id>
+    <published>2024-10-06T16:00:00.000Z</published>
+    <updated>2025-10-07T12:47:28.548Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1-文档编写编辑"><a class="markdownIt-Anchor" href="#1-文档编写编辑"></a> 1. 文档编写编辑</h2><pre><code>1. obsdian </code></pre><h2 id="2-科学上网"><a class="markdownIt-Anchor" href="#2-科学上网"></a> 2. 科学上网</h2><pre><code>1. clash</code></pre><h2 id="3-浏览器插件"><a class="markdownIt-Anchor" href="#3-浏览器插件"></a> 3. 浏览器插件</h2><pre><code>1. SwitchyOmega2. 油猴3. 沉浸式翻译</code></pre><h2 id="4-社交"><a class="markdownIt-Anchor" href="#4-社交"></a> 4. 社交</h2><pre><code>1. qq2. 微信3. Discord</code></pre><h2 id="5-素材网页管理"><a class="markdownIt-Anchor" href="#5-素材网页管理"></a> 5. 素材网页管理</h2><pre><code>1. Eagle 收藏各种图片以及链接</code></pre><h2 id="6-规划"><a class="markdownIt-Anchor" href="#6-规划"></a> 6. 规划</h2><pre><code>1. Trello 项目管理2. Microsoft To Do</code></pre><h2 id="7-pdf阅读"><a class="markdownIt-Anchor" href="#7-pdf阅读"></a> 7. pdf阅读</h2><pre><code>1. Sumatra</code></pre><h2 id="8-工具"><a class="markdownIt-Anchor" href="#8-工具"></a> 8. 工具</h2><pre><code>1. Snipaste 截图2. AutoHotKey 3. PowerToys 小工具箱4. Pot 翻译5. Everything 文件搜索6. nodejs 7. commond line    1. markmap-cli  生成markdown文件对应的脑图2. node-html-to-image-cli 生成html对应的图片</code></pre><h2 id="9-娱乐"><a class="markdownIt-Anchor" href="#9-娱乐"></a> 9. 娱乐</h2><pre><code>1. Steam</code></pre><h2 id="10-音乐"><a class="markdownIt-Anchor" href="#10-音乐"></a> 10. 音乐</h2><pre><code>1. 网易云音乐</code></pre><h2 id="11-开发"><a class="markdownIt-Anchor" href="#11-开发"></a> 11. 开发</h2><pre><code>1. Unity2. UE3. Render Doc4. VS全家桶5. Jetbrains全家桶</code></pre><p><img src="/blog/2024/10/%E6%88%91%E7%9B%AE%E5%89%8D%E5%B8%B8%E7%94%A8%E7%9A%84%E8%BD%AF%E4%BB%B6%E4%B8%8E%E5%B7%A5%E5%85%B7/image-20241007235100014.png" alt></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;1-文档编写编辑&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1-文档编写编辑&quot;&gt;&lt;/a&gt; 1. 文档编写编辑&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;1. obsdian 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&quot;2-科学上网&quot;&gt;&lt;a </summary>
+      
+    
+    
+    
+    
+    <category term="blog" scheme="https://lhaibo.github.io/tags/blog/"/>
+    
+    <category term="记录" scheme="https://lhaibo.github.io/tags/%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="工具" scheme="https://lhaibo.github.io/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="软件" scheme="https://lhaibo.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://lhaibo.github.io/blog/2024/05/%E5%9B%BE%E7%89%87test/"/>
+    <id>https://lhaibo.github.io/blog/2024/05/%E5%9B%BE%E7%89%87test/</id>
+    <published>2024-05-30T16:00:00.000Z</published>
+    <updated>2025-10-07T12:47:28.547Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="图片测试"><a class="markdownIt-Anchor" href="#图片测试"></a> 图片测试</h1><p><img src="/blog/2024/05/%E5%9B%BE%E7%89%87test/image-20240531022503237.png" alt></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;图片测试&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#图片测试&quot;&gt;&lt;/a&gt; 图片测试&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/2024/05/%E5%9B%BE%E7%89%87test/image-2024053102250</summary>
+      
+    
+    
+    
+    
+    <category term="blog" scheme="https://lhaibo.github.io/tags/blog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>markdown test</title>
+    <link href="https://lhaibo.github.io/blog/2024/05/markdown-test/"/>
+    <id>https://lhaibo.github.io/blog/2024/05/markdown-test/</id>
+    <published>2024-05-26T17:55:07.000Z</published>
+    <updated>2025-10-07T12:47:28.508Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="this-readme-can-be-used-as-a-reference-for-github-flavored-markdown-styling-and-possibly-behavior"><a class="markdownIt-Anchor" href="#this-readme-can-be-used-as-a-reference-for-github-flavored-markdown-styling-and-possibly-behavior"></a> This README can be used as a reference for github-flavored-markdown styling (and possibly behavior).</h3><hr><h1 id="h1"><a class="markdownIt-Anchor" href="#h1"></a> H1</h1><p>followed by some text</p><h2 id="h2"><a class="markdownIt-Anchor" href="#h2"></a> H2</h2><p>followed by some text</p><h3 id="h3"><a class="markdownIt-Anchor" href="#h3"></a> H3</h3><p>followed by some text</p><h4 id="h4"><a class="markdownIt-Anchor" href="#h4"></a> H4</h4><p>followed by some text</p><h5 id="h5"><a class="markdownIt-Anchor" href="#h5"></a> H5</h5><p>followed by some text</p><h6 id="h6"><a class="markdownIt-Anchor" href="#h6"></a> H6</h6><p>followed by some text</p><p>Auto-detected link: <a href="http://www.france.com">http://www.france.com</a></p><p>Some Ignored_multiple_underscore_italics here</p><p>A line of normal text with <code>inline code</code> and <em>italics</em>, <strong>strong font</strong>, and even some μ†ℱ ╋ℯ╳╋. Followed by lots of Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis id sem purus, eu commodo tortor. Donec malesuada ultricies dolor a eleifend. In hac habitasse platea dictumst. Vivamus a faucibus ligula. Nullam molestie tristique arcu, eu elementum metus ultricies sed. Aenean luctus congue lectus, vitae semper erat rhoncus non. Nulla facilisi.</p><p>Followed by another line of normal text with <code>inline code</code> and <em>italics</em>, <strong>strong font</strong>, and even some μ†ℱ ╋ℯ╳╋. Followed by lots of Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis id sem purus, eu commodo tortor. Donec malesuada ultricies dolor a eleifend. In hac habitasse platea dictumst. Vivamus a faucibus ligula. Nullam molestie tristique arcu, eu elementum metus ultricies sed. Aenean luctus congue lectus, vitae semper erat rhoncus non. Nulla facilisi.</p><p>Thin horizontal rule:</p><p>–</p><p>Thick horizontal rule:</p><hr><table><thead><tr><th>Table Header 1</th><th>Table Header 2</th></tr></thead><tbody><tr><td>Content</td><td><a href="http://example.org">http://example.org</a></td></tr><tr><td>Content</td><td><a href="http://localhost">http://localhost</a>:&lt;port&gt;</td></tr></tbody></table><p>Text right below table. Follows is a table with an empty cell, and unaligned indenting.</p><table><thead><tr><th>Table Header 1</th><th>Table Header 2</th></tr></thead><tbody><tr><td>Content</td><td>Cntent</td></tr><tr><td>Content</td><td></td></tr></tbody></table><p>Empty line between table and this text</p><pre><code>def this_is  puts &quot;some #&#123;4-space-indent&#125; code&quot;end</code></pre><code>def this_is  puts "some #&#123;code tag&#125; code"end</code><pre>def this_is  puts "some #{pre tag} code"end</pre><pre class="line-numbers language-none"><code class="language-none">def this_is  puts &quot;some #&#123;fenced&#125; code&quot;end<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre><pre class="line-numbers language-ruby" data-language="ruby"><code class="language-ruby"><span class="token keyword">class</span> <span class="token class-name">Classy</span>  <span class="token keyword">def</span> <span class="token method-definition"><span class="token function">this_is</span></span>    puts <span class="token string-literal"><span class="token string">"some </span><span class="token interpolation"><span class="token delimiter punctuation">#&#123;</span><span class="token content">colored</span><span class="token delimiter punctuation">&#125;</span></span><span class="token string"> ruby code with ruby syntax highlighting"</span></span>    <span class="token variable">@someobj</span><span class="token punctuation">.</span>do_it<span class="token punctuation">(</span><span class="token number">1</span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">)</span>  <span class="token keyword">end</span><span class="token keyword">end</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><pre class="line-numbers language-javascript" data-language="javascript"><code class="language-javascript"><span class="token keyword">var</span> <span class="token function-variable function">test</span> <span class="token operator">=</span> <span class="token keyword">function</span> <span class="token function">this_is</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">&#123;</span>  console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">"some"</span> <span class="token operator">+</span> colored <span class="token operator">+</span> <span class="token string">"javascript code with javascript syntax highlighting really long"</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span class="token punctuation">&#125;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre><pre class="line-numbers language-clojure" data-language="clojure"><code class="language-clojure"><span class="token punctuation">(</span><span class="token keyword">defproject</span> myproject <span class="token string">"0.5.0-SNAPSHOT"</span>  <span class="token symbol">:description</span> <span class="token string">"Some clojure code with syntax highlighting."</span>  <span class="token symbol">:dependencies</span> <span class="token punctuation">[</span><span class="token punctuation">[</span>org.clojure/clojure <span class="token string">"1.5.1"</span><span class="token punctuation">]</span><span class="token punctuation">]</span>  <span class="token symbol">:plugins</span> <span class="token punctuation">[</span><span class="token punctuation">[</span>lein-tar <span class="token string">"3.2.0"</span><span class="token punctuation">]</span><span class="token punctuation">]</span><span class="token punctuation">)</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><pre class="line-numbers language-javascript" data-language="javascript"><code class="language-javascript"><span class="token keyword">var</span> <span class="token function-variable function">test</span> <span class="token operator">=</span> <span class="token keyword">function</span> <span class="token function">this_is</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">&#123;</span>  console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">"language declared as 'js' instead"</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span class="token punctuation">&#125;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre><pre class="line-numbers language-bogus_language" data-language="bogus_language"><code class="language-bogus_language">var test &#x3D; function this_is()&#123;  console.log(&quot;language declared as bogus_language&quot;);&#125;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre><blockquote><p>here is blockquote</p></blockquote><p><img src="/blog/2024/05/markdown-test/afu.png" alt></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;this-readme-can-be-used-as-a-reference-for-github-flavored-markdown-styling-and-possibly-behavior&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href</summary>
+      
+    
+    
+    
+    
+    <category term="测试" scheme="https://lhaibo.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+    <category term="md格式" scheme="https://lhaibo.github.io/tags/md%E6%A0%BC%E5%BC%8F/"/>
+    
+  </entry>
+  
+</feed>
